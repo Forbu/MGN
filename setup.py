@@ -13,7 +13,6 @@ setup(name="MGN",
       author="MGN team",
       author_email="",
       packages=find_packages(),
-      package_dir={"MGN": "MGN"},
       install_requires=None,
       extras_require={
             "dev": [],
